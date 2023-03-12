@@ -1,0 +1,12 @@
+#Tampilkan nama dan nim dalam baris yang berbeda serta ceritakan dimana kalian tinggal bagaimana visualisasi kampung halaman dan ceritakan harapan kalian sebagai lulusan teknik industri
+nama = "Tsamara Najwa Dzakiyya"
+nim  = "NIM I0322125"
+alamat = "Alamat : Giriwono, Wonogiri, Jawa Tengah"
+visualisasi = "Kota Wonogiri, kota yang berada di bagian tenggara Provinsi Jawa Tengah ini terkenal dengan kulinernya yaitu bakso dan mie ayam. Tak hanya itu dari aspek budayanya tarian Kethek Ogleng juga terkenal dikalangan masyarakat dalam maupun kota Wonogiri, dan oleh-oleh khas Wonogiri yang biasa dibeli oleh masyarakat yang berkunjung diantaranya ada brem, tempe kripik, serta kacang mete. Wonogiri juga dikenal dari aspek pariwisatanya. Tempat wisata yang berada di Wonogiri daintaranya yaitu Waduk Gadjah Mungkur, Pantai Klayar, Pantai Watu Karung, dan masih banyak lagi."
+harapan =  "Harapan saya menjadi lulusan dari prodi Teknik Industri ini adalah saya akan menjadi orang sukses sesuai jalan yang sudah dipilihkan untuk saya, diterima di perusahaan seperti shopee, tokopedia."
+
+print(nama)
+print(nim)
+print(alamat)
+print(visualisasi)
+print(harapan)
